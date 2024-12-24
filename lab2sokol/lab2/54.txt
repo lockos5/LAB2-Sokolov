@@ -1,0 +1,8 @@
+==PIPES==
+Pipe id: 2
+Your pipe's name: Test
+Your pipe's length: 10
+Your pipe's diameter: 20
+Is your pipe in repair: 1
+
+You haven't created a cs yet

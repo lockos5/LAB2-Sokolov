@@ -1,0 +1,14 @@
+==PIPES==
+Pipe id: 0
+Your pipe's name: Test
+Your pipe's length: 10
+Your pipe's diameter: 20
+Is your pipe in repair: 1
+
+==CSS==
+Cs id: 0
+Your cs's name: Test
+Your cs's number of factories: 10
+Your cs's number of working factories: 2
+Your cs's efficiency: 0
+

@@ -1,0 +1,26 @@
+You haven't created any pipe yet
+==CSS==
+Cs id: 0
+Your cs's name: Test
+Your cs's number of factories: 10
+Your cs's number of working factories: 2
+Your cs's efficiency: 0
+
+Cs id: 1
+Your cs's name: Test
+Your cs's number of factories: 10
+Your cs's number of working factories: 2
+Your cs's efficiency: 0
+
+Cs id: 2
+Your cs's name: Test
+Your cs's number of factories: 10
+Your cs's number of working factories: 2
+Your cs's efficiency: 0
+
+Cs id: 3
+Your cs's name: Test
+Your cs's number of factories: 10
+Your cs's number of working factories: 2
+Your cs's efficiency: 0
+
